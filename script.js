@@ -21,10 +21,10 @@ const resetGame = () => {
 }
 
 const getRandomWord = () => {
-    // Selecting a random word and hint from the wordList
-    const { word, hint } = wordList[Math.floor(Math.random() * wordList.length)];
+    // Selecting a random word and question from the wordList
+    const { word, question } = wordList[Math.floor(Math.random() * wordList.length)];
     currentWord = word; // Making currentWord as random word
-    document.querySelector(".hint-text b").innerText = hint;
+    document.querySelector(".question-text b").innerText = question;
     resetGame();
 }
 
