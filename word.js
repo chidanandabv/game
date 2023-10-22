@@ -212,8 +212,8 @@ const wordList = [
         question: "A game, toy, or problem designed to test ingenuity or knowledge."
     },
     {
-        word: "whisper",
-        question: "To speak very softly or quietly, often in a secretive manner."
+        word: "star",
+        question: "sun is the ."
     },
     {
         word: "shadow",
@@ -224,39 +224,39 @@ const wordList = [
         question: "Something kept hidden or unknown to others."
     },
     {
-        word: "curiosity",
-        question: "A strong desire to know or learn something."
+        word: "water",
+        question: "water bottel cantain the ."
     },
     {
-        word: "unpredictable",
-        question: "Not able to be foreseen or known beforehand; uncertain."
+        word: "planet",
+        question: "earth is a ."
     },
     {
-        word: "obfuscate",
-        question: "To confuse or bewilder someone; to make something unclear or difficult to understand."
+        word: "soorya",
+        question: "sun mythology name according to hindu dharma."
     },
     {
-        word: "unveil",
-        question: "To make known or reveal something previously secret or unknown."
+        word: "tiger",
+        question: "the indian national animal is ."
     },
     {
-        word: "illusion",
-        question: "A false perception or belief; a deceptive appearance or impression."
+        word: "apple",
+        question: "safari browser own by."
     },
     {
         word: "moonlight",
         question: "The light from the moon."
     },
     {
-        word: "vibrant",
-        question: "Full of energy, brightness, and life."
+        word: "google",
+        question: "chrome browser created by."
     },
     {
-        word: "nostalgia",
-        question: "A sentimental longing or wistful affection for the past."
+        word: "google",
+        question: "android operating system own by ."
     },
     {
-        word: "brilliant",
-        question: "Exceptionally clever, talented, or impressive."
+        word: "mango",
+        question: "indian national fruit."
     },
 ];
